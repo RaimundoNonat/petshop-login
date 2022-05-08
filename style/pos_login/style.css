@@ -1,0 +1,180 @@
+body {
+    background-color: #c27f1b;
+}
+
+.row {
+    text-align: center;
+}
+
+#titulo {
+    font-size: 80px;
+    bottom: 1%;
+    font-family: 'Times New Roman';
+    color: white;
+    text-align: center;
+    background-color: #c27f1b;
+    margin: 0px;
+}
+
+#descricao {
+    background-color: antiquewhite;
+    border-radius: 15%;
+    border-top-left-radius: 1.5em;
+    margin: 15px;
+    margin-top: 0px;
+}
+
+#promocao img {
+    text-align: center;
+    width: 100%;
+    border-radius: 2%;
+    margin-top: 15%;
+}
+
+#promocao a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#promocao {
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 0%;
+    margin-bottom: 1%;
+    border-radius: 1em;
+}
+
+#aproveite {
+    color: white;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#preco {
+    color: red;
+    font-size: 12px;
+}
+
+#produtos {
+    margin-top: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#adocao img {
+    text-align: center;
+    max-width: 210px;
+    max-height: 150px;
+    border-radius: 0.5em;
+}
+
+#adocao li {
+    text-align: justify;
+}
+
+#adocao {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+#avaliacao img {
+    text-align: center;
+    width: 50px;
+    margin-top: 30%;
+    border-radius: 2em;
+}
+
+#avaliacao {
+    width: 20px;
+    margin: 10px;
+    color: white;
+}
+
+#tabela1 h6 a {
+    color: #c27f1b;
+    display: block;
+    border: 0px;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+
+#botao h6 a {
+    color: black;
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 1%;
+    margin-left: 1px;
+}
+
+#botao {
+    margin-left: 50%;
+}
+
+#botao h6 {
+    margin-right: 0%;
+}
+
+#login {
+    margin-top: 30px;
+    font-size: 60px;
+    font-family: 'Times New Roman';
+    text-transform: uppercase;
+    color: white;
+    border-top: 10%;
+}
+
+#logado {
+    color: white;
+}
+
+#lista {
+    text-decoration: none;
+    margin-top: 30%;
+    text-align: left;
+}
+
+#lista a {
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}
+
+#lista h6 :hover {
+    margin-top: 1px;
+    color: white;
+    text-decoration: none;
+}
+
+iframe :focus {
+    outline: none;
+}
+
+iframe {
+    scroll-margin-top: no;
+}
+
+iframe [seamless] {
+    display: block;
+}
+
+iframe {
+    background-color: #c27f1b;
+    margin-top: 10%;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(19, 18, 17);
+    height: 100%;
+    color: white;
+    margin-bottom: 0%;
+    padding: 3%;
+    margin-top: 5%;
+}

@@ -1,0 +1,182 @@
+.main {
+    background: #c27f1b;
+}
+
+header {
+    color: rgb(83, 83, 100);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.row {
+    text-align: center;
+    text-size-adjust: center;
+}
+
+#titulo {
+    font-size: 80px;
+    bottom: 5%;
+    font-family: 'Times New Roman';
+    color: black;
+    text-align: center;
+    padding: 3%;
+    background-color: #c27f1b;
+    margin: 0px;
+}
+
+#tabela {
+    background-color: rgb(54, 44, 38);
+    border-radius: 10px;
+    border-top-left-radius: 1px;
+    margin-left: 5px;
+}
+
+#tabela :hover {
+    background-color: rgb(54, 44, 38);
+    margin: 0%;
+}
+
+#tabela h6 {
+    text-align: center;
+    color: white;
+    margin-top: 8px;
+}
+
+#tabela a {
+    color: white;
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    margin-top: 6px;
+}
+
+#descricao {
+    background-color: antiquewhite;
+    border-radius: 15%;
+    border-top-left-radius: 1.5em;
+    margin: 15px;
+    margin-top: 0px;
+}
+
+#carousel {
+    text-align: center;
+    height: 30%;
+}
+
+#promocao img {
+    text-align: center;
+    width: 100%;
+    border-radius: 2%;
+    margin-top: 15%;
+}
+
+#promocao a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#promocao {
+    background-color: white;
+    margin-top: 1%;
+    margin-left: 0%;
+    margin-bottom: 1%;
+    border-radius: 1em;
+}
+
+#aproveite {
+    color: white;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#preco {
+    color: red;
+    font-size: 12px;
+}
+
+#produtos {
+    margin-top: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#adocao img {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 2.5em;
+    margin-left: 10%;
+    margin-left: 50%;
+}
+
+#adocao-titulo {
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}
+
+#adocao li {
+    text-align: left;
+    margin-top: 3%;
+}
+
+#adocao {
+    margin-top: 20px;
+    margin-bottom: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+#avaliacao img {
+    text-align: center;
+    width: 150px;
+    border-radius: 1em;
+}
+
+#avaliacao {
+    width: 20px;
+    margin: 10px;
+    color: black;
+    margin-top: 5%;
+}
+
+#avaliacao-titulo {
+    color: black;
+    margin-top: 5%;
+}
+
+#botao h6 a {
+    color: black;
+    display: block;
+    border: 0px;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 1%;
+    margin-left: 1px;
+}
+
+#login {
+    margin-bottom: 30px;
+    font-size: 60px;
+    font-family: 'Times New Roman';
+    text-transform: uppercase;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(19, 18, 17);
+    height: 100%;
+    color: white;
+    margin-bottom: 0%;
+    padding: 2%;
+    margin-top: 10%;
+}
+
+#hr {
+    border-radius: 90%;
+    color: white;
+}
